@@ -3,7 +3,7 @@
 - `config/environments/test.rb`に`config.action_dispatch.show_exceptions = :none`を指定すると発生した例外が表示されて便利
 - 特に`Bullet::Notification::UnoptimizedQueryError`などを表示したいとき
 
-
+### 詳細
 ```
 config.action_dispatch.show_exceptions = :noneは、RailsのAction Dispatchで例外処理の表示方法を制御する設定です。
 設定値の意味：
