@@ -2,7 +2,6 @@
 --
 
 ```
-config.action_dispatch.show_exceptions = :none編集この設定について説明します。
 config.action_dispatch.show_exceptions = :noneは、RailsのAction Dispatchで例外処理の表示方法を制御する設定です。
 設定値の意味：
 
