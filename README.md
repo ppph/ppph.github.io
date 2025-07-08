@@ -6,6 +6,6 @@
 - willnet/committee-rails: rails and committee are good friends https://github.com/willnet/committee-rails
 - exoego/rspec-openapi: Generate OpenAPI schema from RSpec request specs https://github.com/exoego/rspec-openapi
 
-## 2025-07-04
+## [2025-07-04] `config.action_dispatch.show_exceptions = :none`
 - `config/environments/test.rb`に`config.action_dispatch.show_exceptions = :none`を指定すると発生した例外が表示されて便利
 - 特に`Bullet::Notification::UnoptimizedQueryError`などを表示したいとき
