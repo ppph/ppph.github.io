@@ -3,6 +3,7 @@
 - ふつうのRails開発を続けるために - Speaker Deck https://speakerdeck.com/mstshiwasaki/hutuufalserailskai-fa-wosok-kerutameni
 - DHHはどのようにRailsのコントローラを書くのか | POSTD https://postd.cc/how-dhh-organizes-his-rails-controllers/
 - 「今のプロジェクトいろいろ大変なんですよ、app/services とかもあって……」/After Kaigi on Rails 2024 LT Night - Speaker Deck https://speakerdeck.com/junk0612/after-kaigi-on-rails-2024-lt-night
+- DBのモデリング、正規化
 
 
 ## [2025-07-08] open api schema * rails
