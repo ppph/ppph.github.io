@@ -1,8 +1,8 @@
 ## [2025-07-08] ふつうのrails
-- 「ふつうのRailsアプリケーション」についての考え方 - Speaker Deck https://speakerdeck.com/edvakf/hutuufalserailsapurikesiyon-nituitefalsekao-efang?slide=7
+- 「ふつうのRailsアプリケーション」についての考え方 - Speaker Deck https://speakerdeck.com/edvakf/hutuufalserailsapurikesiyon-nituitefalsekao-efang
 - ふつうのRails開発を続けるために - Speaker Deck https://speakerdeck.com/mstshiwasaki/hutuufalserailskai-fa-wosok-kerutameni
 - DHHはどのようにRailsのコントローラを書くのか | POSTD https://postd.cc/how-dhh-organizes-his-rails-controllers/
-- 「今のプロジェクトいろいろ大変なんですよ、app/services とかもあって……」/After Kaigi on Rails 2024 LT Night - Speaker Deck https://speakerdeck.com/junk0612/after-kaigi-on-rails-2024-lt-night?slide=13
+- 「今のプロジェクトいろいろ大変なんですよ、app/services とかもあって……」/After Kaigi on Rails 2024 LT Night - Speaker Deck https://speakerdeck.com/junk0612/after-kaigi-on-rails-2024-lt-night
 
 
 ## [2025-07-08] open api schema * rails
